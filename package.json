@@ -1,7 +1,7 @@
 {
-  "name": "uniswap-v2-subgraph",
+  "name": "gravity-v2-subgraph",
   "version": "1.0.0",
-  "repository": "https://github.com/inthenextversion/dev-gravity-v1-subgraphs",
+  "repository": "https://github.com/agelessZeal/gravity-v2-subgraph",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "codegen": "graph codegen --output-dir src/types/",
